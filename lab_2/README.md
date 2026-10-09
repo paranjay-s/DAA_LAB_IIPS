@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 Program 1: 1D Array Operations
+## Program 1: 1D Array Operations
 **File:** `array_operations_1d.py`
 
 - **Aim:** Insert, delete, linear search, and left/right rotate a 1D list.
@@ -20,7 +20,7 @@
 
 ---
 
-## 📁 Program 2: 2D Array Operations
+## Program 2: 2D Array Operations
 **File:** `array_operations_2d.py`
 
 - **Aim:** Row insert/delete, 2D value search, and 90-degree clockwise rotation.
@@ -36,7 +36,7 @@
 
 ---
 
-## 📁 Program 3: Sparse Matrix
+## Program 3: Sparse Matrix
 **File:** `sparse_matrix.py`
 
 - **Aim:** Convert a matrix to sparse triples, reconstruct the full matrix, and add matrices in sparse form.
@@ -53,7 +53,7 @@
 
 ---
 
-## 📁 Program 4: Matrix Calculator
+## Program 4: Matrix Calculator
 **File:** `matrix_calculator.py`
 
 - **Aim:** Menu-driven calculator for addition, multiplication, transpose, and determinant.
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 Section D: Summary
+## Section D: Summary
 
 - **Space Complexity:** 
   - Full Matrix: `m * n`
